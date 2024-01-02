@@ -17,7 +17,7 @@
     text-transform: uppercase;
 }
 .nav-link:hover{
-    color: pink;
+    color: black;
 }
 .search{
     height: 40px;
